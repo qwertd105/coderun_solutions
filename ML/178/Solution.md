@@ -10,4 +10,4 @@
 
 
 
-#### Note: Recounting MSE for constant time on each step can be made with formula ![alt text](image.png)
+#### Note: Recounting MSE for constant time on each step can be made with formula ![formula](image-1.png)
