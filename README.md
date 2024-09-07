@@ -6,7 +6,7 @@ Solving problems on [coderun.yandex.ru](https://coderun.yandex.ru/) with some ex
 🟩 Done <br>
 
 **Level:** <br>
-🟢 ЛEasy <br>
+🟢 Easy <br>
 🟠 Medium <br>
 🔴 Hard <br>
 
