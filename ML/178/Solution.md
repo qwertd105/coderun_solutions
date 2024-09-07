@@ -10,4 +10,5 @@
 
 
 
-#### Note: Recounting MSE for constant time on each step can be made with formula ![formula](image-1.png)
+#### Note: Recounting MSE for constant time on each step can be made with formula ![formula](image-1.png) 
+#### P.S Python solution gets TL, so I rewrited it on C++
